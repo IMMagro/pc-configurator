@@ -1,0 +1,98 @@
+{
+    "processors": [
+      {
+        "id": 1,
+        "name": "Intel Core i7-9700K",
+        "price": 300
+      },
+      {
+        "id": 2,
+        "name": "AMD Ryzen 7 3700X",
+        "price": 280
+      }
+    ],
+    "motherboards": [
+      {
+        "id": 1,
+        "name": "ASUS ROG Strix Z390-E",
+        "price": 250
+      },
+      {
+        "id": 2,
+        "name": "MSI MPG B550 GAMING EDGE WIFI",
+        "price": 200
+      }
+    ],
+    "ram": [
+      {
+        "id": 1,
+        "name": "Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz",
+        "price": 100
+      },
+      {
+        "id": 2,
+        "name": "G.Skill Ripjaws V 32GB (2 x 16GB) DDR4 3600MHz",
+        "price": 180
+      }
+    ],
+    "gpus": [
+      {
+        "id": 1,
+        "name": "NVIDIA GeForce RTX 3080",
+        "price": 800
+      },
+      {
+        "id": 2,
+        "name": "AMD Radeon RX 6700 XT",
+        "price": 700
+      }
+    ],
+    "storage": [
+      {
+        "id": 1,
+        "name": "Samsung 970 EVO 1TB NVMe SSD",
+        "price": 150
+      },
+      {
+        "id": 2,
+        "name": "Western Digital Blue 2TB HDD",
+        "price": 60
+      }
+    ],
+    "psus": [
+      {
+        "id": 1,
+        "name": "Corsair RM850x 850W 80+ Gold",
+        "price": 120
+      },
+      {
+        "id": 2,
+        "name": "EVGA SuperNOVA 750 G3 750W 80+ Gold",
+        "price": 110
+      }
+    ],
+    "cases": [
+      {
+        "id": 1,
+        "name": "Fractal Design Meshify C",
+        "price": 90
+      },
+      {
+        "id": 2,
+        "name": "NZXT H510",
+        "price": 80
+      }
+    ],
+    "cooling": [
+      {
+        "id": 1,
+        "name": "Noctua NH-D15",
+        "price": 100
+      },
+      {
+        "id": 2,
+        "name": "Corsair H100i RGB Platinum",
+        "price": 150
+      }
+    ]
+  }
